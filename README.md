@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikamAkshay | Developer
-- 👀 Always working on Web Developement
+- 👀 Always working on Web Developement and Mobile Apps
 - 🌱 I’m currently learning MERN
 - 💞️ Looking Forward to exploring more in web dev. Love to be a part of exciting projects.
 - 📫 Reach me: **nikamakshaym@gmail.com**
